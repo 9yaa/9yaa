@@ -35,7 +35,7 @@
 
 ### 🛠️ Tech Stack & Cyber Toolkit
 
-**Languages & Backend**
+**Languages & Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -43,7 +43,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Cybersecurity & Infrastructure**
+**Cybersecurity & Infrastructure**  
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -55,10 +55,9 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9yaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9yaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+![Yasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9yaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9yaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
